@@ -27,3 +27,6 @@ Regras validadas:
 docker build -t validador .
 docker run -p 5000:5000 validador
 ```
+
+## NOTA:
+Como proposto, não foi utilizado IA, com exceção desse README, até porque ninguém merece escrever markdown na mão
